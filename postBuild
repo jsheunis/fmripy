@@ -1,0 +1,1 @@
+aws s3 sync --no-sign-request s3://openneuro.org/ds000157 ds000157-download/

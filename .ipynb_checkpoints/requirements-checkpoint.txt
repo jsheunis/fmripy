@@ -1,0 +1,3 @@
+numpy>=1.14
+nibabel>=2.1.0
+matplotlib
