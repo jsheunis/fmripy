@@ -28,7 +28,7 @@
 
 # External link
 - title: GitHub repository
-  url: https://github.com/jupyter/jupyter-book
+  url: https://github.com/jsheunis/fmripy
   external: true
   not_numbered: true
 
@@ -40,17 +40,17 @@
 - divider: true
 
 # Add a header and sample content section
-- header: Demo textbook
+- header: fMRIpy textbook
 
 # A chapter w/ a collection of sections beneath it
-- title: Features and customization
-  url: /features/features
+- title: Access and load data
+  url: /acces_load_data/acces_load_data
   not_numbered: true
   expand_sections: true
   sections:
-  - title: Markdown files
-    url: /features/markdown
+  - title: section a
+    url: /acces_load_data/fmri_basics
     not_numbered: true
-  - title: Jupyter notebooks
-    url: /features/notebooks
+  - title: section b
+    url: /acces_load_data/parrec_tests
     not_numbered: true
