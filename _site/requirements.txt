@@ -7,7 +7,3 @@ folium
 matplotlib
 nbinteract
 scipy
-jupyter-book
-nibabel
-nilearn
-awscli
